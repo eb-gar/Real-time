@@ -1,7 +1,5 @@
 # Chat en Tiempo Real con NestJS y WebSockets
 
-![Chat Demo](https://medium.com/@mahedi154/building-a-real-time-market-data-api-with-nestjs-and-websockets-2aad304283f4) 
-
 Un sistema de chat en tiempo real implementado con NestJS en el backend y tecnologías web estándar (HTML, CSS, JavaScript) en el frontend, utilizando WebSockets para comunicación bidireccional.
 
 ## Características principales
